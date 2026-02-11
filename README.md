@@ -1,2 +1,2 @@
 # Exploring-GITHUB
-Learning github
+Learning github.
